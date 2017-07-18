@@ -4,7 +4,7 @@
 
 general:
     artifacts:
-        - /home/ubuntu/Popular-Movies/app/build/outputs/apk/
+        - /home/ubuntu/Keyboard/app/build/outputs/apk/
 
 machine:
     environment:
